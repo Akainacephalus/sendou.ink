@@ -494,4 +494,29 @@ export const homemadeBadges: BadgeInfo[] = [
 		fileName: "matchmeet",
 		authorDiscordId: "631246535560265749",
 	},
+	{
+		displayName: "Mesozoic Mayhem: Triceratrials",
+		fileName: "tricera",
+		authorDiscordId: "352207524390240257",
+	},
+	{
+		displayName: "Mesozoic Mayhem: Gold Triceratrials",
+		fileName: "triceragold",
+		authorDiscordId: "352207524390240257",
+	},
+	{
+		displayName: "Mesozoic Mayhem: Special Spinosaurus",
+		fileName: "spino",
+		authorDiscordId: "352207524390240257",
+	},
+	{
+		displayName: "Mesozoic Mayhem: Gold Special Spinosaurus",
+		fileName: "spinogold",
+		authorDiscordId: "352207524390240257",
+	},
+	{
+		displayName: "Mesozoic Mayhem: Dreadnoughtus Undefeated",
+		fileName: "dreadnoughtus",
+		authorDiscordId: "352207524390240257",
+	},
 ];
